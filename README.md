@@ -9,7 +9,7 @@ Turkish and English Supported, Banking System with C
 ## Updates
 [![Version](https://img.shields.io/badge/Version-1.0-green)]()
 ```diff
-
++ Card placement notification has been added.
 
 ```
 
