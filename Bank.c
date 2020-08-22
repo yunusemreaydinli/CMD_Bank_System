@@ -1,5 +1,5 @@
 /* CMD BANK
-Yunus Emre Aydinli
+Yunus Emre Aydýnlý
 22.08.2020 00:11 */
 #include<stdio.h>
 #include<locale.h>
@@ -13,19 +13,31 @@ int main() {
 	
 	int pass, x=10;	
 	
+	printf("--------Ýnserting the card...--------\n");
+	sleep(2);
+	printf("The card is approved, please wait.");
+	sleep(2);
+	system("CLS");
+	
 	printf("--------WELCOME TO CMD BANK!--------\n");
- 	printf("Please choose your language! (English = 1 / Turkish = 2): ");
+ 	printf("Please choose your language! (English = 1 / Turkish = 2 / EXIT: 3): ");
  	scanf("%d", &language);
  	
  	if (language == 1) {
  		printf("Application language is English. Please wait...");
+ 		
 	 } else if (language == 2) {
-	 	printf("Uygulama dili Türkçe yapýlýyor. Lütfen Bekleyiniz...");
-	 } else {
+	 		printf("Uygulama dili Türkçe yapýlýyor. Lütfen Bekleyiniz...");
+	 } 
+	   else if (language == 3) {
+	   	return 0;
+	   }
+	 else {
 	 	system("CLS");
 	 	printf("Error! Please enter the numbers requested from you.");
 	 	sleep(1);
 	 	system("CLS");
+	 	
 	return main();
 	 }
  
@@ -34,10 +46,10 @@ int main() {
 	
 	if(language == 1) {
 		 	printf("--------CMD BANKASINA HOÞGELDÝNÝZ!--------\n");
-	}
+      }
 	else{
 	 	printf("--------WELCOME TO CMD BANK!--------\n");
-	}
+	  }
  	
 	while (x!=0) {
 		if(language == 1 ) {
@@ -45,7 +57,7 @@ int main() {
 			printf("--------WELCOME TO CMD BANK!--------\n");
 			printf("\nEnter your password: ");
 
-		}
+	   }
 		else {
 			system("CLS");
 			printf("--------CMD BANKASINA HOÞGELDÝNÝZ!--------\n");
@@ -254,7 +266,6 @@ void calistir() {
 	if(durum == 2){
 		 system("CLS");
 		calistir();
-	}
-
-	
+	}	
 }
+
