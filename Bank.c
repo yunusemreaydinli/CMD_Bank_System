@@ -1,5 +1,5 @@
 /* CMD BANK
-Yunus Emre Aydýnlý
+Yunus Emre Aydinli
 22.08.2020 00:11 */
 #include<stdio.h>
 #include<locale.h>
