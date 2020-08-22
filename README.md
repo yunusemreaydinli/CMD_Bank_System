@@ -7,10 +7,15 @@ Turkish and English Supported, Banking System with C
 - Bank Password: 123
 
 ## Updates
-[![Version](https://img.shields.io/badge/Version-1.0-green)]()
+[![Version0](https://img.shields.io/badge/Version-1.0.0-green)]()
+```diff
++ CMD Bank System version 1.0.0 is out.
+- Unnecessary lines have been deleted.
+```
+[![Version1](https://img.shields.io/badge/Version-1.0.1-green)]()
 ```diff
 + Card placement notification has been added.
-
++ Bug fix.
 ```
 
 ## Authors
