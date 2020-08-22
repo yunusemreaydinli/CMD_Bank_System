@@ -4,6 +4,7 @@ Turkish and English Supported, Banking System with C
 ## How to use?
 - You can run it by downloading the .exe file.
 - To edit; You can open the .c file by downloading [Dev-C ++](https://www.bloodshed.net/dev/devcpp.html).
+- Bank Password: 123
 
 ## Updates
 [![Version](https://img.shields.io/badge/Version-1.0-green)]()
