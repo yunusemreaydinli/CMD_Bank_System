@@ -22,4 +22,6 @@ Turkish and English Supported, Banking System with C
 [Yunus Emre Aydınlı](https://github.com/yunusemreaydinli/)
 
 ## License
+[![Lisence](https://img.shields.io/hexpm/l/apa?label=License)]()
+
 This project is licensed under the Apache License 2.0 - see the [LICENSE](https://github.com/yunusemreaydinli/CMD_Bank_System/blob/master/LICENSE) file for details
