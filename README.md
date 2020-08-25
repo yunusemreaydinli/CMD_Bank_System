@@ -7,17 +7,17 @@ Turkish and English Supported, Banking System with C
 - Bank Password: 123
 > **Note:** Click on badges to download versions.
 ## Updates 
-[![Version0](https://img.shields.io/badge/Version-1.0-green)](https://github.com/yunusemreaydinli/CMD_Bank_System/releases/tag/v1.0.0)
+[![Version0](https://img.shields.io/badge/Version-1.0-green)](https://github.com/yunusemreaydinli/CMD_Bank_System/releases/tag/v1.0)
 ```diff
 + CMD Bank System version 1.0.0 is out.
 - Unnecessary lines have been deleted.
 ```
-[![Version1](https://img.shields.io/badge/Version-1.1-green)](https://github.com/yunusemreaydinli/CMD_Bank_System/releases/tag/v1.0.1)
+[![Version1](https://img.shields.io/badge/Version-1.1-green)](https://github.com/yunusemreaydinli/CMD_Bank_System/releases/tag/v1.1)
 ```diff
 + Card placement notification has been added.
 + Bug fix.
 ```
-[![Version2](https://img.shields.io/badge/Version-1.2-green)](https://github.com/yunusemreaydinli/CMD_Bank_System/releases/tag/v1.0.2)
+[![Version2](https://img.shields.io/badge/Version-1.2-green)](https://github.com/yunusemreaydinli/CMD_Bank_System/releases/tag/v1.2)
 ```diff
 + The interface has been changed and the interface is centered.
 + Warning sounds have been added.
