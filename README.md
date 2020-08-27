@@ -1,9 +1,5 @@
----
-description: 'Turkish and English Supported, Banking System with C'
----
-
 # CMD Bank System
-
+Turkish and English Supported, Banking System with C
 ## [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/yunusemreaydinli/CMD_Bank_System/) [![GitHub stars](https://img.shields.io/github/stars/yunusemreaydinli/CMD_Bank_System.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/yunusemreaydinli/CMD_Bank_System/stargazers/)
 
 ### How to use?
