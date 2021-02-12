@@ -6,7 +6,7 @@ Turkish and English Supported, Banking System with C
 ### How to use?
 
 * You can run it by downloading the .exe file.
-* To edit; You can open the .c file by downloading [Dev-C ++](https://www.bloodshed.net/dev/devcpp.html). 
+* To edit; You can open the .c file by downloading [Dev-C ++](https://sourceforge.net/projects/orwelldevcpp/). 
 * Bank Password: 123
 
   > **Note:**
